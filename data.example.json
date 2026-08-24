@@ -1,0 +1,83 @@
+{
+  "archivo": "BANCOS_24-08-2026.xlsx",
+  "fecha_proceso": "24/08/2026 16:30",
+  "periodo": "Agosto 2026",
+  "saldo_total": 1683669.51,
+  "total_creditos": 42000.0,
+  "total_debitos": 18500.0,
+  "cantidad_movimientos": 6,
+  "bancos": [
+    {
+      "nombre": "Banco Agrícola",
+      "saldo": 1500074.83,
+      "creditos": 20000.0,
+      "debitos": 8000.0,
+      "movimientos": [
+        {
+          "fecha": "24/08/2026",
+          "referencia": "TRX-001",
+          "descripcion": "TRANSFERENCIA RECIBIDA",
+          "debito": 0,
+          "credito": 12500,
+          "saldo": 1492574.83
+        },
+        {
+          "fecha": "24/08/2026",
+          "referencia": "TRX-002",
+          "descripcion": "PAGO A PROVEEDOR",
+          "debito": 8000,
+          "credito": 0,
+          "saldo": 1500074.83
+        }
+      ]
+    },
+    {
+      "nombre": "Banco Cuscatlán",
+      "saldo": 24362.46,
+      "creditos": 7000.0,
+      "debitos": 2500.0,
+      "movimientos": [
+        {
+          "fecha": "24/08/2026",
+          "referencia": "CUS-101",
+          "descripcion": "ABONO ACH",
+          "debito": 0,
+          "credito": 7000,
+          "saldo": 24362.46
+        }
+      ]
+    },
+    {
+      "nombre": "BAC Credomatic",
+      "saldo": 112161.51,
+      "creditos": 10000.0,
+      "debitos": 5000.0,
+      "movimientos": [
+        {
+          "fecha": "24/08/2026",
+          "referencia": "BAC-01",
+          "descripcion": "DEPÓSITO",
+          "debito": 0,
+          "credito": 10000,
+          "saldo": 112161.51
+        }
+      ]
+    },
+    {
+      "nombre": "Davivienda",
+      "saldo": 47070.71,
+      "creditos": 5000.0,
+      "debitos": 3000.0,
+      "movimientos": [
+        {
+          "fecha": "24/08/2026",
+          "referencia": "DAV-01",
+          "descripcion": "TRANSFERENCIA",
+          "debito": 3000,
+          "credito": 0,
+          "saldo": 47070.71
+        }
+      ]
+    }
+  ]
+}
